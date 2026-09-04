@@ -1,4 +1,4 @@
-# Retail Customer Sales & Segmentation Analysis | Power BI
+# Retail Customer Sales & Segmentation Analysis
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Source-217346?style=flat&logo=microsoftexcel&logoColor=white)
