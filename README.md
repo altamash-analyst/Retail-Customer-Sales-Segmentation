@@ -773,6 +773,8 @@ Mumbai, India
 
 GitHub: [@altamash-analyst](https://github.com/altamash-analyst)
 
+**LinkedIn:** https://www.linkedin.com/in/altamash-nizamuddin-a208152a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 Open to remote opportunities in:
 
 - Data Analytics
